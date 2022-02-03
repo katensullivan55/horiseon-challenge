@@ -8,7 +8,7 @@ This website was built in order to assist companies in connecting with experts i
 ## Installation
 
 Submit pull request to download code, to use for your own purposes.
-To reccomend larger changes, submit issues request.
+To reccomend larger changes, submit an issue.
 
 ## Usage
 
