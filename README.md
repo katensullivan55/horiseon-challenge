@@ -20,6 +20,7 @@ Follow the URL to see and interact with the website.
 Basecode provided by OSU Online Coding Bootcamp. Changes made to original css and html include:
 - changed some classes to ids and vice-versa
 - reorganized and simplified the stylesheet
+- added notes to show intention of code
 
 ## License
 
