@@ -15,6 +15,8 @@ To recommend larger changes, submit an issue.
 
 Follow the URL to see and interact with the website.
 
+[Horiseon Social Solutions](https://katensullivan55.github.io/horiseon-challenge/)
+
 ## Credits
 
 Basecode provided by OSU Online Coding Bootcamp. Changes made to original css and html include:
